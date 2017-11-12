@@ -1,0 +1,11 @@
+{
+  "name": "shortcircuitgithub",
+  "version": "1.0.0",
+  "description": "Deploying Node App in Digital Ocean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Srivastav",
+  "license": "ISC"
+}
